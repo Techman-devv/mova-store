@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-1067-docs-security-remove-the-next-public-admin"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-1067-docs-security-remove-the-next-public-admin": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-1067-docs-security-remove-the-next-public-admin"
+  ]
+}
